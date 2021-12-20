@@ -1,6 +1,6 @@
 # Final-BD2
 
-#Instalar Apache CouchDB
+# Instalar Apache CouchDB
 
 - Descargar
 	https://couchdb.apache.org/#download
@@ -15,7 +15,7 @@
 	1234
 	Este usuario coincide con el usado dentro del proyecto.
 
-#Clonar el proyecto en eclipse.
+# Clonar el proyecto en eclipse.
 
 - Ir a: file->import
 
